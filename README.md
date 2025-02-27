@@ -4,14 +4,14 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 
 ## Table of Contents
 
-1. [System Architecture](#system-architecture)
+1. [System Architecture](#architecture)
 2. [Requirements](#requirements)
 3. [Getting Started](#getting-started)
 4. [Running the Code With Docker](#running-the-code-with-docker)
 5. [How It Works](#how-it-works)
 
 ## System Architecture
-![system_architecture.png](assets%2Fsystem_architecture.png)
+![system_architecture.png](https://github.com/DHANA-SRINIVASAN/Football_Analysis/blob/main/architecture.jpeg)
 
 ## Requirements
 - Python 3.9 (minimum)
